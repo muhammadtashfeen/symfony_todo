@@ -16,3 +16,8 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
